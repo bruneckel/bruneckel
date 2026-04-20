@@ -3,4 +3,4 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/bruno-neckel/)](https://www.linkedin.com/in/bruno-neckel/)
 
 ## <samp>Hello World!</samp> <img src="https://github.com/bruneckel/bruneckel/blob/main/assets/earth.gif" width="22px" height="22px">
-<samp>I'm a __Software Engineer in Brazil__ 🇧🇷, passionate about solving problems with technology and creating different solutions.
+<samp>I'm a __Software Engineer in Brasil__ 🇧🇷, passionate about solving problems with technology and creating different solutions.
