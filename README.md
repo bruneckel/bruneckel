@@ -1,4 +1,4 @@
-# <samp>Bruno Neckel</samp><img src="https://github.com/bruneckel/bruneckel/blob/master/assets/mario_hello_big.gif" width="30px" height="30px">
+# <samp>Bruno Neckel</samp><img src="https://github.com/bruneckel/bruneckel/blob/main/assets/mario_hello_big.gif" width="30px" height="30px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/bruno-neckel/)](https://www.linkedin.com/in/bruno-neckel/)
 
